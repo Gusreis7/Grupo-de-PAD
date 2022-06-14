@@ -1,2 +1,6 @@
 # Grupo-de-PAD
-Integrantes: Gustavo; Guilherme; Murilo; Evellyn; 
+Integrantes:
++Gustavo 
++Guilherme
++Murilo 
++Evellyn 
